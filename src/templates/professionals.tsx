@@ -77,10 +77,7 @@ export default function Professional({ document, __meta }: TemplateProps) {
   return (
     <PageLayout backgroundColor="#FFFFFF" templateData={{ document, __meta }}>
       <CenteredContainer>
-        <HeaderSimple
-          // logo={document.logo.image.url}
-          backgroundColor="#fff"
-        />
+        <HeaderSimple logo={document.logo.image?.url} backgroundColor="#fff" />
         <HorizontalStack
           spacing="1"
           topMargin="0"
