@@ -1,7 +1,7 @@
 {
   "bundlePaths": {
-    "professionals": "assets/server/professionals.fb7cc32e.js",
-    "homepage": "assets/server/static.ffe7f5df.js"
+    "professionals": "assets/server/professionals.bc5814c2.js",
+    "homepage": "assets/server/static.6d3c2aa7.js"
   },
   "projectFilepaths": {
     "templatesRoot": "src/templates",
@@ -15,66 +15,66 @@
       "src": "node_modules/@yext/pages/dist/vite-plugin/build/buildStart/rendering/renderer.js",
       "isEntry": true,
       "imports": [
-        "_index-a9aaf112.js"
+        "_index-ceb52796.js"
       ]
     },
     "src/templates/professionals.tsx": {
-      "file": "assets/server/professionals.fb7cc32e.js",
+      "file": "assets/server/professionals.bc5814c2.js",
       "src": "src/templates/professionals.tsx",
       "isEntry": true,
       "imports": [
-        "_jsx-runtime-272e7464.js",
-        "_index-a9aaf112.js",
-        "_index-0383fc84.js"
+        "_jsx-runtime-192c96fa.js",
+        "_index-ceb52796.js",
+        "_index-f623f503.js"
       ],
       "css": [
         "assets/static/professionals-ed27e5c0.css"
       ]
     },
     "dist/hydration_templates/professionals.tsx": {
-      "file": "assets/hydrate/professionals.27fb1193.js",
+      "file": "assets/hydrate/professionals.d0a9ba7f.js",
       "src": "dist/hydration_templates/professionals.tsx",
       "isEntry": true,
       "imports": [
-        "_jsx-runtime-272e7464.js",
-        "_index-0383fc84.js",
+        "_jsx-runtime-192c96fa.js",
+        "_index-f623f503.js",
         "src/templates/professionals.tsx",
-        "_index-a9aaf112.js"
+        "_index-ceb52796.js"
       ]
     },
     "src/templates/static.tsx": {
-      "file": "assets/server/static.ffe7f5df.js",
+      "file": "assets/server/static.6d3c2aa7.js",
       "src": "src/templates/static.tsx",
       "isEntry": true,
       "imports": [
-        "_jsx-runtime-272e7464.js",
-        "_index-a9aaf112.js"
+        "_jsx-runtime-192c96fa.js",
+        "_index-ceb52796.js"
       ]
     },
     "dist/hydration_templates/static.tsx": {
-      "file": "assets/hydrate/static.7d94476d.js",
+      "file": "assets/hydrate/static.fe03a4ef.js",
       "src": "dist/hydration_templates/static.tsx",
       "isEntry": true,
       "imports": [
-        "_jsx-runtime-272e7464.js",
-        "_index-0383fc84.js",
+        "_jsx-runtime-192c96fa.js",
+        "_index-f623f503.js",
         "src/templates/static.tsx",
-        "_index-a9aaf112.js"
+        "_index-ceb52796.js"
       ]
     },
-    "_index-a9aaf112.js": {
-      "file": "assets/static/index-a9aaf112.js"
+    "_index-ceb52796.js": {
+      "file": "assets/static/index-ceb52796.js"
     },
-    "_jsx-runtime-272e7464.js": {
-      "file": "assets/static/jsx-runtime-272e7464.js",
+    "_jsx-runtime-192c96fa.js": {
+      "file": "assets/static/jsx-runtime-192c96fa.js",
       "imports": [
-        "_index-a9aaf112.js"
+        "_index-ceb52796.js"
       ]
     },
-    "_index-0383fc84.js": {
-      "file": "assets/static/index-0383fc84.js",
+    "_index-f623f503.js": {
+      "file": "assets/static/index-f623f503.js",
       "imports": [
-        "_index-a9aaf112.js"
+        "_index-ceb52796.js"
       ]
     },
     "src/templates/professionals.css": {
