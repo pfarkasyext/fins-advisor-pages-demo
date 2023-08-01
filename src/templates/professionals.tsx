@@ -87,7 +87,7 @@ export default function Professional({ document, __meta }: TemplateProps) {
           alignment="center"
           verticalOnMobile="false"
           backgroundColor="#1C2E5E"
-          // backgroundImage={document.photoGallery[0]?.image.url}
+          backgroundImage={document.photoGallery[0]?.image.url}
         >
           <HeroImage
             src={`${document.headshot.url}`}
